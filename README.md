@@ -1,11 +1,11 @@
-# Developing and Deploying Fine-Tuned BERT-Transformers Model on Streamlit Cloud
+# Developing and Deploying Fine-Tuned BERT-Transformers Model on Streamlit Cloud | FASTAPI
 ### Overview
 
-This repository contains code for deploying a fine-tuned BERT-Transformers model on Streamlit Cloud. The model is used to classify toxic and non-toxic comments using the Hugging Face platform. The Streamlit application allows users to input text and get a prediction on whether the input is toxic or not. 
+This repository contains code for deploying a fine-tuned BERT-Transformers model on Streamlit Cloud and FASTAPI. The model is used to classify toxic and non-toxic comments using the Hugging Face platform. The Streamlit application allows users to input text and get a prediction on whether the input is toxic or not. 
 
 ### Installation:  
 
-To run this application locally, follow these steps:  
+To run this application locally on Streamlit Cloud, follow these steps:  
 
 
 1-Clone this repository to your local machine.<br>
